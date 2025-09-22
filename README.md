@@ -1,4 +1,4 @@
-# Hello! 👋 I'm Airamsveedraaa
+# Hello! 👋 I'm Airam
 
 I am currently pursuing a Bachelor's Degree in **Computer Engineering**.
 
@@ -17,6 +17,14 @@ Passionate about technology and problem-solving, I am focused on developing soli
   &nbsp;&nbsp;
   <a href="https://www.mathworks.com/products/matlab.html" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="Matlab" width="50" height="50"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.java.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="50" height="50"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.mysql.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="SQL" width="50" height="50"/>
   </a>
 </div>
 
